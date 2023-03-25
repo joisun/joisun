@@ -1,7 +1,6 @@
 <h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
   Hi there! I'm Jayce~ 
-  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+  <img src="https://media.giphy.com/media/l0MYR64Gp8bQ2RGYo/giphy.gif" alt="Hi" width="30" />
 </h3>
 
 <a href="https://github.com/wangrongding">
@@ -12,8 +11,8 @@
 
 <!-- ======================================= -->
 
-- 😄Read more about my [Blog](https://www.cnblogs.com/jaycethanks/)
-- 👯Follow me on [掘金](https://juejin.cn/user/1838039175009038)
+- Read more about my [Blog](https://www.cnblogs.com/jaycethanks/)
+- Follow me on [掘金](https://juejin.cn/user/1838039175009038)
 
 
 <!-- ======================================= -->
