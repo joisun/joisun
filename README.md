@@ -1,6 +1,6 @@
 <h3>
   Hi there! I'm Jayce~ 
-  <img src="https://media.giphy.com/media/l0MYR64Gp8bQ2RGYo/giphy.gif" alt="Hi" width="30" />
+  <img src="https://raw.githubusercontent.com/jaycethanks/jaycethanks/main/assets/out2.gif" alt="Hi" width="30" />
 </h3>
 
 <a href="https://github.com/wangrongding">
