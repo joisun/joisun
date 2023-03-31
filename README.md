@@ -13,7 +13,7 @@
 
 - Read more about my [Blog](https://www.cnblogs.com/jaycethanks/)
 - Follow me on [掘金](https://juejin.cn/user/1838039175009038)
-- My Gitpage: [link](https://jaycethanks.github.io/)|[also deploy on vercel](https://jaycethanks-github-io.vercel.app/)
+- My Gitpage: [link](https://jaycethanks.github.io/) | [also deploy on vercel](https://jaycethanks-github-io.vercel.app/)
 
 <!-- ======================================= -->
 
