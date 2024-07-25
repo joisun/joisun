@@ -11,11 +11,12 @@
 
 <!-- ======================================= -->
 
-<a href="https://sunzy.fun">blog</a>
+<a target="_blank" href="https://sunzy.fun">blog</a>
+<a target="_blank" href="https://juejin.cn/user/1838039175009038">juejin</a>
+<a target="_blank" href="https://joisun.github.io/">git page</a> (<a target="_blank" href="https://jaycethanks-github-io.vercel.app">vercel</a>)
 
-- Read more about my [Blog](https://sunzy.fun)
-- Follow me on [掘金](https://juejin.cn/user/1838039175009038)
-- My Gitpage: [link](https://jaycethanks.github.io/) | [also deploy on vercel](https://jaycethanks-github-io.vercel.app/)
+
+
 
 <!-- ======================================= -->
 
