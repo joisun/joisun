@@ -1,5 +1,5 @@
 <h3>
-  Hi there! I'm Jayce~ 
+  Hi there! I'm FE developer~ 
   <img src="https://raw.githubusercontent.com/jaycethanks/jaycethanks/main/assets/out2.gif" alt="Hi" width="30" />
 </h3>
 
