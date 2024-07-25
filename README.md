@@ -11,8 +11,8 @@
 
 <!-- ======================================= -->
 
-<a target="_blank" href="https://sunzy.fun">blog</a> .
-<a target="_blank" href="https://juejin.cn/user/1838039175009038">juejin</a> .
+<a target="_blank" href="https://sunzy.fun">blog</a>  .
+<a target="_blank" href="https://juejin.cn/user/1838039175009038">juejin</a>  .
 <a target="_blank" href="https://joisun.github.io/">git page</a> (<a target="_blank" href="https://jaycethanks-github-io.vercel.app">vercel</a>)
 
 
