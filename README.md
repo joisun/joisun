@@ -2,11 +2,11 @@
   Hi there! A FE developer ~ 
 </h3>
 
-<a href="https://github.com/wangrongding">
-  <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@:jaycethanks?theme=rule34" alt="Jayce" />
-  </div>
-</a>
+
+<div align="right" >
+  <img align="right" height="100" src="https://count.getloli.com/get/@:jaycethanks?theme=rule34" alt="Jayce" />
+</div>
+
 
 
 <!-- ======================================= -->
