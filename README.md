@@ -18,6 +18,6 @@
 
 
 
-  <img align="right" height="100" src="https://count.getloli.com/get/@:jaycethanks?theme=rule34" alt="Jayce" />
+  <img align="right" height="10" src="https://count.getloli.com/get/@:jaycethanks?theme=rule34" alt="Jayce" />
 
- <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joisun&layout=compact" /> 
+ <!-- <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joisun&layout=compact" /> -->
