@@ -11,6 +11,8 @@
 
 <!-- ======================================= -->
 
+<a href="https://sunzy.fun">blog</a>
+
 - Read more about my [Blog](https://sunzy.fun)
 - Follow me on [掘金](https://juejin.cn/user/1838039175009038)
 - My Gitpage: [link](https://jaycethanks.github.io/) | [also deploy on vercel](https://jaycethanks-github-io.vercel.app/)
