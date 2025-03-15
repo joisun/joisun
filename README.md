@@ -1,5 +1,5 @@
 <h3>
-  Hi there! A FE developer ~ 
+  Hi! A FE developer ~ 
 </h3>
 
 
